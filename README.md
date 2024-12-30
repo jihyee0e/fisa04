@@ -69,11 +69,6 @@ age=38
 
 ![고양이입니다](https://i.imgur.com/knCvaRQ.png)
 
-```
-[](링크)
-```
-
-[![고양이입니다](https://i.imgur.com/knCvaRQ.png)](https://www.naver.com/)"
 
 ---
 
